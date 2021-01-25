@@ -3,7 +3,7 @@
   </head>
   <body>
     <p style="font-size:100">MUHAMMAD(S.A.W)</p>
-    <div style="background-color:green:>
+    <p style="font-size:40">
 
 Muhammad is the prophet and founder of Islam.
 Who Was Muhammad?
@@ -47,5 +47,5 @@ Between 624 and 628, the Muslims were involved in a series of battles for their 
 
 The Death of Muhammad
 After the conflict with Mecca was finally settled, Muhammad took his first true Islamic pilgrimage to that city and in March, 632, he delivered his last sermon at Mount Arafat. Upon his return to Medina to his wife’s home, he fell ill for several days. He died on June 8, 632, at the age of 62, and was buried at al-Masjid an-Nabawi (the Mosque of the Prophet) one of the first mosques built by Muhammad in Medina.
-</div>
+</p>
 </html>
